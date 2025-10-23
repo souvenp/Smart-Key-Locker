@@ -29,3 +29,7 @@ A lightweight, system-tray based application for Windows to lock your keyboard a
     *   Customize the lock and unlock shortcuts.
     *   Set the inactivity time in minutes for auto-lock (set to 0 to disable).
     *   View recent lock/unlock events.
+
+### Acknowledgments
+
+This project was inspired by the work on [keylock](https://github.com/Axorax/keylock).
