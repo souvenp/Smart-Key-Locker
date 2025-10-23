@@ -14,7 +14,7 @@ A lightweight, system-tray based application for Windows to lock your keyboard a
 
 ### 🚀 How to Get Started
 
-1.  Navigate to the [**Releases**](https://github.com/your-username/your-repo/releases) page of this repository. *(Remember to update this link!)*
+1.  Navigate to the [**Releases**](https://github.com/souvenp/Smart-Key-Locker/releases) page of this repository.
 2.  Download the latest `KeyLocker.exe` file.
 3.  Run `KeyLocker.exe`. The application icon will appear in your system tray. No installation is needed.
 
